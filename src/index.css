@@ -1,0 +1,7 @@
+@import "tailwindcss";
+/* index.css atau App.css */
+html, body, #root {
+  @apply bg-[#2a2a2a] text-white;
+  height: 100%;
+  margin: 0;
+}
